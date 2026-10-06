@@ -7,7 +7,7 @@
 | **Category** | Introductory Problems |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++ (C++20) |
-| **Submission** | [View Submission](https://cses.fi/problemset/result/18982336/) |
+| **Submission** | [View Submission](https://cses.fi/problemset/result/18982389/) |
 
 ---
 
