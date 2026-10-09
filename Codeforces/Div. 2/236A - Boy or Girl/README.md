@@ -39,36 +39,42 @@ If it is a female by our hero's method, print "`CHAT WITH HER!`" (without the qu
 
 ```
 wjmzbmr
+
 ```
 
 **Output 1:**
 
 ```
 CHAT WITH HER!
+
 ```
 
 **Example 2:**
 
 ```
 xiaodao
+
 ```
 
 **Output 2:**
 
 ```
 IGNORE HIM!
+
 ```
 
 **Example 3:**
 
 ```
 sevenkplus
+
 ```
 
 **Output 3:**
 
 ```
 CHAT WITH HER!
+
 ```
 
 ## Note
@@ -77,7 +83,7 @@ For the first example. There are 6 distinct characters in "`wjmzbmr`". These cha
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/236/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/236/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/parthopaul69/CodeSync-Pro-Extension)*
