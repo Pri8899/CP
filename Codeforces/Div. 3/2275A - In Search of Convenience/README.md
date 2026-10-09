@@ -5,7 +5,7 @@
 | **Contest** | [2275](https://codeforces.com/contest/2275) |
 | **Problem** | [2275A — In Search of Convenience](https://codeforces.com/contest/2275/problem/A) |
 | **Rating** | Gym/Unrated |
-| **Tags** | geometry, implementation |
+| **Tags** | N/A |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 (GCC 14-64, msys2) |
 | **Runtime** | 0 ms |
