@@ -40,12 +40,14 @@ Print `n` space-separated integers: the `i`-th number should equal the number of
 ```
 4
 2 3 4 1
+
 ```
 
 **Output 1:**
 
 ```
 4 1 2 3
+
 ```
 
 **Example 2:**
@@ -53,12 +55,14 @@ Print `n` space-separated integers: the `i`-th number should equal the number of
 ```
 3
 1 3 2
+
 ```
 
 **Output 2:**
 
 ```
 1 3 2
+
 ```
 
 **Example 3:**
@@ -66,17 +70,19 @@ Print `n` space-separated integers: the `i`-th number should equal the number of
 ```
 2
 1 2
+
 ```
 
 **Output 3:**
 
 ```
 1 2
+
 ```
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/136/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/136/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/parthopaul69/CodeSync-Pro-Extension)*
