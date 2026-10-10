@@ -40,12 +40,14 @@ Output "`YES`", if the string is a pangram and "`NO`" otherwise.
 ```
 12
 toosmallword
+
 ```
 
 **Output 1:**
 
 ```
 NO
+
 ```
 
 **Example 2:**
@@ -53,17 +55,19 @@ NO
 ```
 35
 TheQuickBrownFoxJumpsOverTheLazyDog
+
 ```
 
 **Output 2:**
 
 ```
 YES
+
 ```
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/520/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/520/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/parthopaul69/CodeSync-Pro-Extension)*
