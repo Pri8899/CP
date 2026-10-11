@@ -49,15 +49,15 @@
     <text x="0" y="34" class="stat-lbl">TOTAL SOLVED</text>
 
     <!-- Streak -->
-    <text x="120" y="20" class="stat-val" font-size="22" fill="#f0883e">8<tspan font-size="13" font-weight="500" fill="#8b949e"> days</tspan></text>
+    <text x="120" y="20" class="stat-val" font-size="22" fill="#f0883e">9<tspan font-size="13" font-weight="500" fill="#8b949e"> days</tspan></text>
     <text x="120" y="34" class="stat-lbl">CURRENT STREAK</text>
 
     <!-- AC Accuracy -->
-    <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">56.7%</text>
+    <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">55.9%</text>
     <text x="245" y="34" class="stat-lbl">AC ACCURACY</text>
 
     <!-- Submissions -->
-    <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">67</text>
+    <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">68</text>
     <text x="360" y="34" class="stat-lbl">SUBMISSIONS</text>
   </g>
 
