@@ -69,7 +69,8 @@ For each test case, output `n` space-separated digits  — the initial sequence
 ```
 2 1 1 
 9 0 
-0 4 9 6 9
+0 4 9 6 9 
+
 ```
 
 ## Note
