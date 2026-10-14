@@ -35,36 +35,42 @@ Output the minimum number of bills that Allen could receive.
 
 ```
 125
+
 ```
 
 **Output 1:**
 
 ```
 3
+
 ```
 
 **Example 2:**
 
 ```
 43
+
 ```
 
 **Output 2:**
 
 ```
 5
+
 ```
 
 **Example 3:**
 
 ```
 1000000000
+
 ```
 
 **Output 3:**
 
 ```
 10000000
+
 ```
 
 ## Note
@@ -77,7 +83,7 @@ In the third sample case, Allen can withdraw `100000000` (ten million!) `100` do
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/996/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/996/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
