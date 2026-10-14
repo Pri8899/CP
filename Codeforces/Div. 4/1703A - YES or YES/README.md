@@ -64,6 +64,7 @@ NO
 NO
 NO
 NO
+
 ```
 
 ## Note
@@ -72,7 +73,7 @@ The first five test cases contain the strings "`YES`", "`yES`", "`yes`", "`Yes`"
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1703/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1703/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
