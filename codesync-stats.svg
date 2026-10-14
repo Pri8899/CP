@@ -91,7 +91,7 @@
   <!-- Header Text -->
   <g>
     <text x="56" y="33" class="title">CodeSync Pro <tspan font-weight="400" fill="#6e7681">Workstation</tspan></text>
-    <text x="56" y="47" class="subtitle">@parthopaul69 • Competitive Programming Portfolio</text>
+    <text x="56" y="47" class="subtitle">@Pri8899 • Competitive Programming Portfolio</text>
   </g>
 
   <!-- Live Status Badge with Continuous Sonar Radar Rings -->
@@ -121,25 +121,25 @@
   <g transform="translate(24, 68)">
     <!-- Solved -->
     <g>
-      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">48</text>
+      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">46</text>
       <text x="0" y="34" class="stat-lbl">TOTAL SOLVED</text>
     </g>
 
     <!-- Streak (Animated Flame Gradient) -->
     <g>
-      <text x="120" y="20" class="stat-val" font-size="22" fill="url(#streak-flame)">12<tspan font-size="13" font-weight="500" fill="#8b949e"> days</tspan></text>
+      <text x="120" y="20" class="stat-val" font-size="22" fill="url(#streak-flame)">11<tspan font-size="13" font-weight="500" fill="#8b949e"> days</tspan></text>
       <text x="120" y="34" class="stat-lbl">CURRENT STREAK</text>
     </g>
 
     <!-- AC Accuracy -->
     <g>
-      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">60.0%</text>
+      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">56.1%</text>
       <text x="245" y="34" class="stat-lbl">AC ACCURACY</text>
     </g>
 
     <!-- Submissions -->
     <g>
-      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">80</text>
+      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">82</text>
       <text x="360" y="34" class="stat-lbl">SUBMISSIONS</text>
     </g>
   </g>
@@ -149,8 +149,8 @@
     <rect x="24" y="118" width="447" height="7" rx="3.5" fill="#21262d"/>
     <g clip-path="url(#bar-clip)">
       
-      <rect x="24" y="118" width="391.125" height="7" fill="#58a6ff"/>
-      <rect x="415.125" y="118" width="55.875" height="7" fill="#3fb950"/>
+      <rect x="24" y="118" width="388.69565217391306" height="7" fill="#58a6ff"/>
+      <rect x="412.69565217391306" y="118" width="58.30434782608695" height="7" fill="#3fb950"/>
       <rect x="471" y="118" width="0" height="7" fill="#d29922"/>
       <rect x="471" y="118" width="0" height="7" fill="#f0883e"/>
       <rect x="471" y="118" width="0" height="7" fill="#a371f7"/>
@@ -169,7 +169,7 @@
         <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2s" repeatCount="indefinite"/>
       </circle>
       <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">CF</text>
-      <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">42</text>
+      <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">40</text>
     </g>
     <g transform="translate(115, 137)">
       <rect width="83" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
