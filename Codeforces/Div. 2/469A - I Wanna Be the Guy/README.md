@@ -41,12 +41,14 @@ If they can pass all the levels, print "`I become the guy.`". If it's impossible
 4
 3 1 2 3
 2 2 4
+
 ```
 
 **Output 1:**
 
 ```
 I become the guy.
+
 ```
 
 **Example 2:**
@@ -55,12 +57,14 @@ I become the guy.
 4
 3 1 2 3
 2 2 3
+
 ```
 
 **Output 2:**
 
 ```
 Oh, my keyboard!
+
 ```
 
 ## Note
@@ -71,7 +75,7 @@ In the second sample, no one can pass level 4.
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/469/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/469/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
