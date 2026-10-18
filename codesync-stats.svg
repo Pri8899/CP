@@ -127,19 +127,19 @@
 
     <!-- Streak (Animated Flame Gradient) -->
     <g>
-      <text x="120" y="20" class="stat-val" font-size="22" fill="url(#streak-flame)">16<tspan font-size="13" font-weight="500" fill="#8b949e"> days</tspan></text>
+      <text x="120" y="20" class="stat-val" font-size="22" fill="url(#streak-flame)">17<tspan font-size="13" font-weight="500" fill="#8b949e"> days</tspan></text>
       <text x="120" y="34" class="stat-lbl">CURRENT STREAK</text>
     </g>
 
     <!-- AC Accuracy -->
     <g>
-      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">56.4%</text>
+      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">58.2%</text>
       <text x="245" y="34" class="stat-lbl">AC ACCURACY</text>
     </g>
 
     <!-- Submissions -->
     <g>
-      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">101</text>
+      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">98</text>
       <text x="360" y="34" class="stat-lbl">SUBMISSIONS</text>
     </g>
   </g>
