@@ -121,7 +121,7 @@
   <g transform="translate(24, 68)">
     <!-- Solved -->
     <g>
-      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">53</text>
+      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">54</text>
       <text x="0" y="34" class="stat-lbl">TOTAL SOLVED</text>
     </g>
 
@@ -133,13 +133,13 @@
 
     <!-- AC Accuracy -->
     <g>
-      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">57.6%</text>
+      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">57.4%</text>
       <text x="245" y="34" class="stat-lbl">AC ACCURACY</text>
     </g>
 
     <!-- Submissions -->
     <g>
-      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">92</text>
+      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">94</text>
       <text x="360" y="34" class="stat-lbl">SUBMISSIONS</text>
     </g>
   </g>
@@ -148,7 +148,7 @@
   <g>
     <rect x="24" y="118" width="447" height="7" rx="3.5" fill="#21262d"/>
     <g clip-path="url(#bar-clip)">
-      <rect x="24" y="118" width="447" height="7" fill="#58a6ff"/>
+      <rect x="24" y="118" width="438.72222222222223" height="7" fill="#58a6ff"/><rect x="462.72222222222223" y="118" width="8.277777777777777" height="7" fill="#f0883e"/>
       <!-- Continuous Laser Shimmer Beam across Bar -->
       <rect x="24" y="118" width="447" height="7" fill="url(#laser-sweep)"/>
     </g>
@@ -157,13 +157,31 @@
   <!-- Platform Solved Pills (Breathing Indicator Dots) -->
   
     <g transform="translate(24, 137)">
-      <rect width="447" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <rect width="143" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
       <circle cx="12" cy="13" r="3.5" fill="#58a6ff">
         <animate attributeName="r" values="3.0; 4.3; 3.0" dur="2s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2s" repeatCount="indefinite"/>
       </circle>
       <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">CF</text>
-      <text x="438" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">53</text>
+      <text x="134" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">53</text>
+    </g>
+    <g transform="translate(175, 137)">
+      <rect width="143" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="12" cy="13" r="3.5" fill="#f0883e">
+        <animate attributeName="r" values="3.0; 4.3; 3.0" dur="2.25s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.25s" repeatCount="indefinite"/>
+      </circle>
+      <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">LC</text>
+      <text x="134" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">1</text>
+    </g>
+    <g transform="translate(326, 137)">
+      <rect width="143" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="12" cy="13" r="3.5" fill="#a371f7">
+        <animate attributeName="r" values="3.0; 4.3; 3.0" dur="2.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.5s" repeatCount="indefinite"/>
+      </circle>
+      <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">Toph</text>
+      <text x="134" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">0</text>
     </g>
 
   <!-- Footer Subtle Info -->
