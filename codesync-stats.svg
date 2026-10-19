@@ -121,7 +121,7 @@
   <g transform="translate(24, 68)">
     <!-- Solved -->
     <g>
-      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">85</text>
+      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">86</text>
       <text x="0" y="34" class="stat-lbl">TOTAL SOLVED</text>
     </g>
 
@@ -133,13 +133,13 @@
 
     <!-- AC Accuracy -->
     <g>
-      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">55.8%</text>
+      <text x="245" y="20" class="stat-val" font-size="22" fill="#3fb950">56.3%</text>
       <text x="245" y="34" class="stat-lbl">AC ACCURACY</text>
     </g>
 
     <!-- Submissions -->
     <g>
-      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">274</text>
+      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">272</text>
       <text x="360" y="34" class="stat-lbl">SUBMISSIONS</text>
     </g>
   </g>
@@ -148,7 +148,7 @@
   <g>
     <rect x="24" y="118" width="447" height="7" rx="3.5" fill="#21262d"/>
     <g clip-path="url(#bar-clip)">
-      <rect x="24" y="118" width="278.71764705882356" height="7" fill="#58a6ff"/><rect x="302.71764705882356" y="118" width="31.552941176470586" height="7" fill="#3fb950"/><rect x="334.27058823529416" y="118" width="136.7294117647059" height="7" fill="#f0883e"/>
+      <rect x="24" y="118" width="275.4767441860465" height="7" fill="#58a6ff"/><rect x="299.4767441860465" y="118" width="31.186046511627907" height="7" fill="#3fb950"/><rect x="330.66279069767444" y="118" width="140.3372093023256" height="7" fill="#f0883e"/>
       <!-- Continuous Laser Shimmer Beam across Bar -->
       <rect x="24" y="118" width="447" height="7" fill="url(#laser-sweep)"/>
     </g>
@@ -181,7 +181,7 @@
         <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.5s" repeatCount="indefinite"/>
       </circle>
       <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">LC</text>
-      <text x="134" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">26</text>
+      <text x="134" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">27</text>
     </g>
 
   <!-- Footer Subtle Info -->
