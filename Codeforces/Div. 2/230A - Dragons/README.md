@@ -41,12 +41,14 @@ On a single line print "`YES`" (without the quotes), if Kirito can move on to th
 2 2
 1 99
 100 0
+
 ```
 
 **Output 1:**
 
 ```
 YES
+
 ```
 
 **Example 2:**
@@ -54,12 +56,14 @@ YES
 ```
 10 1
 100 100
+
 ```
 
 **Output 2:**
 
 ```
 NO
+
 ```
 
 ## Note
@@ -70,7 +74,7 @@ In the second sample Kirito's strength is too small to defeat the only dragon an
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/230/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/230/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
