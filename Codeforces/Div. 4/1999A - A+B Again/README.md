@@ -58,11 +58,12 @@ For each test case, output a single integer — the sum of the digits of `n`.
 12
 1
 18
+
 ```
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1999/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1999/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
