@@ -37,24 +37,28 @@ Print one integer — the minimum total distance the friends need to travel in 
 
 ```
 7 1 4
+
 ```
 
 **Output 1:**
 
 ```
 6
+
 ```
 
 **Example 2:**
 
 ```
 30 20 10
+
 ```
 
 **Output 2:**
 
 ```
 20
+
 ```
 
 ## Note
@@ -63,7 +67,7 @@ In the first sample, friends should meet at the point `4`. Thus, the first frien
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/723/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/723/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
