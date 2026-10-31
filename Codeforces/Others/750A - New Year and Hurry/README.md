@@ -39,36 +39,42 @@ Print one integer, denoting the maximum possible number of problems Limak can so
 
 ```
 3 222
+
 ```
 
 **Output 1:**
 
 ```
 2
+
 ```
 
 **Example 2:**
 
 ```
 4 190
+
 ```
 
 **Output 2:**
 
 ```
 4
+
 ```
 
 **Example 3:**
 
 ```
 7 1
+
 ```
 
 **Output 3:**
 
 ```
 7
+
 ```
 
 ## Note
@@ -81,7 +87,7 @@ In the third sample, Limak needs only `1` minute to get to the party. He has eno
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/750/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/750/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
