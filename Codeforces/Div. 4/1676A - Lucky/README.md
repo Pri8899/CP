@@ -54,6 +54,7 @@ NO
 YES
 YES
 NO
+
 ```
 
 ## Note
@@ -66,7 +67,7 @@ In the third test case, the sum of the first three digits is `0 + 4 + 5 = 9` and
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1676/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1676/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
