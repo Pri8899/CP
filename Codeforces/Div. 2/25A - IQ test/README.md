@@ -36,12 +36,14 @@ Output index of number that differs from the others in evenness. Numbers are num
 ```
 5
 2 4 7 8 10
+
 ```
 
 **Output 1:**
 
 ```
 3
+
 ```
 
 **Example 2:**
@@ -49,17 +51,19 @@ Output index of number that differs from the others in evenness. Numbers are num
 ```
 4
 1 2 1 1
+
 ```
 
 **Output 2:**
 
 ```
 2
+
 ```
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/25/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/25/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
