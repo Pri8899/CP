@@ -62,6 +62,7 @@ For each test case, output on a separate line a single integer `d` (`0 ≤ d < m
 899999999
 8000
 887654321
+
 ```
 
 ## Note
