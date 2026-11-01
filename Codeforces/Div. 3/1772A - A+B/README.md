@@ -50,11 +50,12 @@ For each test case, print one integer — the result of the expression.
 0
 10
 17
+
 ```
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1772/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1772/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
