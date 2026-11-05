@@ -121,7 +121,7 @@
   <g transform="translate(24, 68)">
     <!-- Solved -->
     <g>
-      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">114</text>
+      <text x="0" y="20" class="stat-val" font-size="22" fill="#58a6ff">115</text>
       <text x="0" y="34" class="stat-lbl">TOTAL SOLVED</text>
     </g>
 
@@ -139,7 +139,7 @@
 
     <!-- Submissions -->
     <g>
-      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">332</text>
+      <text x="360" y="20" class="stat-val" font-size="22" fill="#c9d1d9">334</text>
       <text x="360" y="34" class="stat-lbl">SUBMISSIONS</text>
     </g>
   </g>
@@ -148,7 +148,7 @@
   <g>
     <rect x="24" y="118" width="447" height="7" rx="3.5" fill="#21262d"/>
     <g clip-path="url(#bar-clip)">
-      <rect x="24" y="118" width="384.2631578947368" height="7" fill="#58a6ff"/><rect x="408.2631578947368" y="118" width="62.73684210526316" height="7" fill="#f0883e"/>
+      <rect x="24" y="118" width="384.8086956521739" height="7" fill="#58a6ff"/><rect x="408.8086956521739" y="118" width="62.19130434782609" height="7" fill="#f0883e"/>
       <!-- Continuous Laser Shimmer Beam across Bar -->
       <rect x="24" y="118" width="447" height="7" fill="url(#laser-sweep)"/>
     </g>
@@ -163,7 +163,7 @@
         <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2s" repeatCount="indefinite"/>
       </circle>
       <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">CF</text>
-      <text x="210" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">98</text>
+      <text x="210" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">99</text>
     </g>
     <g transform="translate(251, 137)">
       <rect width="219" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
