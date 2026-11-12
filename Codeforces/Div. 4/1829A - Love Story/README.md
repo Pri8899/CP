@@ -58,11 +58,12 @@ forcescode
 0
 4
 9
+
 ```
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1829/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1829/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
