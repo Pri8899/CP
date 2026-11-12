@@ -49,6 +49,7 @@ For each test case, print the answer: the minimum number of moves required to ob
 1337 420
 123456789 1000000000
 100500 9000
+
 ```
 
 **Output:**
@@ -60,6 +61,7 @@ For each test case, print the answer: the minimum number of moves required to ob
 92
 87654322
 9150
+
 ```
 
 ## Note
@@ -72,7 +74,7 @@ In the third test case of the example, the following sequence of moves can be ap
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1409/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1409/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
