@@ -52,6 +52,7 @@ For each test case, output one integer `y` — the minimum non-negative number t
 7
 1
 6
+
 ```
 
 ## Note
