@@ -49,6 +49,7 @@ Print `q` integers. The `i` -th of them should be equal to the number of shops w
 10
 3
 11
+
 ```
 
 **Output:**
@@ -58,6 +59,7 @@ Print `q` integers. The `i` -th of them should be equal to the number of shops w
 4
 1
 5
+
 ```
 
 ## Note
@@ -72,7 +74,7 @@ Finally, on the last day Vasiliy can buy a drink in any shop.
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/706/B)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/706/problem/B)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
