@@ -60,7 +60,8 @@ For each test case, output `n` integers on a new line, the column that the `i` -
 ```
 4 3 2 1 
 2 2 
-4
+4 
+
 ```
 
 ---
