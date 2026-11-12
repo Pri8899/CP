@@ -48,6 +48,7 @@ For each test case, output the minimum possible value of `(c - a) + (b - c)` on 
 1
 7
 0
+
 ```
 
 ## Note
@@ -58,7 +59,7 @@ In the second test case, you can choose `c = 6` and obtain an answer of `(6 - 3)
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/2009/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/2009/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
