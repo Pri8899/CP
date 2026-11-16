@@ -44,12 +44,14 @@ Write one line — the corresponding answer. Do not omit the leading `0` s.
 ```
 1010100
 0100101
+
 ```
 
 **Output 1:**
 
 ```
 1110001
+
 ```
 
 **Example 2:**
@@ -57,12 +59,14 @@ Write one line — the corresponding answer. Do not omit the leading `0` s.
 ```
 000
 111
+
 ```
 
 **Output 2:**
 
 ```
 111
+
 ```
 
 **Example 3:**
@@ -70,12 +74,14 @@ Write one line — the corresponding answer. Do not omit the leading `0` s.
 ```
 1110
 1010
+
 ```
 
 **Output 3:**
 
 ```
 0100
+
 ```
 
 **Example 4:**
@@ -83,17 +89,19 @@ Write one line — the corresponding answer. Do not omit the leading `0` s.
 ```
 01110
 01100
+
 ```
 
 **Output 4:**
 
 ```
 00010
+
 ```
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/61/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/61/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
