@@ -44,12 +44,14 @@ Print a single integer, the number of crimes which will go untreated.
 ```
 3
 -1 -1 1
+
 ```
 
 **Output 1:**
 
 ```
 2
+
 ```
 
 **Example 2:**
@@ -57,12 +59,14 @@ Print a single integer, the number of crimes which will go untreated.
 ```
 8
 1 -1 1 -1 -1 1 1 1
+
 ```
 
 **Output 2:**
 
 ```
 1
+
 ```
 
 **Example 3:**
@@ -70,12 +74,14 @@ Print a single integer, the number of crimes which will go untreated.
 ```
 11
 -1 -1 2 -1 -1 -1 -1 -1 -1 -1 -1
+
 ```
 
 **Output 3:**
 
 ```
 8
+
 ```
 
 ## Note
@@ -95,7 +101,7 @@ The answer is one, as one crime (on step 5) will go untreated.
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/427/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/427/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
