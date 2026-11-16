@@ -1,13 +1,13 @@
 #pragma GCC optimize("O3,unroll-loops")
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 typedef long long           ll;
 typedef pair<int,int>       pii;
 typedef pair<ll,ll>         pll;
 typedef vector<int>         vi;
 typedef vector<ll>          vll;
-
+ 
 #define FASTIO  ios_base::sync_with_stdio(false); cin.tie(NULL);
 #define all(x)  (x).begin(), (x).end()
 #define rall(x) (x).rbegin(), (x).rend()
@@ -18,7 +18,7 @@ typedef vector<ll>          vll;
 #define rep(i,a,b)  for(int i=(a); i<(b); i++)
 #define per(i,a,b)  for(int i=(b)-1; i>=(a); i--)
 #define each(x,v)   for(auto& x : v)
-
+ 
 void solve () {
     string s1, s2; cin >> s1 >> s2;
     rep (i, 0, s1.size()) {
@@ -27,7 +27,7 @@ void solve () {
         cout << x;
     }
 }
-
+ 
 int main() {
     FASTIO
     solve();
