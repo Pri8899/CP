@@ -46,6 +46,7 @@ Print `t` answers to the test cases. Each answer must begin with an integer `k` 
 9876
 10000
 10
+
 ```
 
 **Output:**
@@ -60,12 +61,13 @@ Print `t` answers to the test cases. Each answer must begin with an integer `k` 
 1
 10000 
 1
-10
+10 
+
 ```
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1352/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1352/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
