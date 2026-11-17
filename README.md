@@ -10,11 +10,13 @@
 
 <br/>
 
-<a href="https://codeforces.com/profile/Pri8899"><img src="assets/codeforces.svg" alt="Codeforces Profile" width="180" /></a>
-<a href="https://leetcode.com/Pri8899"><img src="assets/leetcode.svg" alt="LeetCode Profile" width="180" /></a>
-<a href="https://atcoder.jp/users/Pri8899"><img src="assets/atcoder.svg" alt="AtCoder Profile" width="180" /></a>
-<a href="https://cses.fi"><img src="assets/cses.svg" alt="CSES Profile" width="180" /></a>
-<a href="https://toph.co/u/Pri8899"><img src="assets/toph.svg" alt="Toph Profile" width="180" /></a>
+<p align="center">
+  <a href="https://codeforces.com/profile/Pri8899"><img src="assets/codeforces.svg" alt="Codeforces Profile" width="156" /></a>
+  <a href="https://leetcode.com/Pri8899"><img src="assets/leetcode.svg" alt="LeetCode Profile" width="156" /></a>
+  <a href="https://atcoder.jp"><img src="assets/atcoder.svg" alt="AtCoder Profile" width="156" /></a>
+  <a href="https://cses.fi/user/Pri8899"><img src="assets/cses.svg" alt="CSES Profile" width="156" /></a>
+  <a href="https://toph.co"><img src="assets/toph.svg" alt="Toph Profile" width="156" /></a>
+</p>
 
 </div>
 
@@ -176,5 +178,5 @@
 <br/>
 
 <div align="center">
-  <sub>Generated automatically by <a href="https://github.com/Pri8899/CodeSync-Pro-Extension"><b>CodeSync Pro v4.4.0</b></a> · Real-time Competitive Programming Sync Engine</sub>
+  <sub>Generated automatically by <a href="https://github.com/Pri8899/CodeSync-Pro-Extension"><b>CodeSync Pro</b></a> · Real-time Competitive Programming Sync Engine</sub>
 </div>
