@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" fill="none">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="ov-bg" x1="0" y1="0" x2="1000" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+
+    <!-- Top Laser Sweep Animation -->
+    <linearGradient id="ov-laser" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb" stop-opacity="0" />
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="1" />
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0" />
+      <animate attributeName="x1" values="-100%; 100%" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0%; 200%" dur="4s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Clip paths for rounded segment bars -->
+    <clipPath id="cf-bar-clip">
+      <rect x="0" y="0" width="920" height="10" rx="5" />
+    </clipPath>
+    <clipPath id="cses-bar-clip">
+      <rect x="0" y="0" width="920" height="10" rx="5" />
+    </clipPath>
+  </defs>
+
+  <!-- Card Border & Background -->
+  <rect width="1000" height="500" rx="16" fill="url(#ov-bg)" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Animated Top Laser Accent -->
+  <line x1="20" y1="1" x2="980" y2="1" stroke="url(#ov-laser)" stroke-width="2.5" stroke-linecap="round" />
+
+  <!-- Header -->
+  <g transform="translate(40, 50)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Problem Solved by platform</text>
+    <text x="920" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#8b949e">126 total</text>
+  </g>
+
+  <!-- Platform Progress Bars -->
+  
+    <!-- Codeforces -->
+    <g transform="translate(40, 98)">
+      <text x="0" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#c9d1d9">Codeforces</text>
+      <rect x="150" y="0" width="730" height="10" rx="5" fill="#161b22" />
+      <rect x="150" y="0" width="730" height="10" rx="5" fill="#3b82f6">
+        <animate attributeName="width" from="0" to="730" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+      <text x="920" y="10" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">126</text>
+    </g>
+    <!-- CSES -->
+    <g transform="translate(40, 134)">
+      <text x="0" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#c9d1d9">CSES</text>
+      <rect x="150" y="0" width="730" height="10" rx="5" fill="#161b22" />
+      
+      <text x="920" y="10" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">0</text>
+    </g>
+    <!-- Toph -->
+    <g transform="translate(40, 170)">
+      <text x="0" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#c9d1d9">Toph</text>
+      <rect x="150" y="0" width="730" height="10" rx="5" fill="#161b22" />
+      
+      <text x="920" y="10" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">0</text>
+    </g>
+    <!-- AtCoder -->
+    <g transform="translate(40, 206)">
+      <text x="0" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#c9d1d9">AtCoder</text>
+      <rect x="150" y="0" width="730" height="10" rx="5" fill="#161b22" />
+      
+      <text x="920" y="10" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">0</text>
+    </g>
+    <!-- LeetCode -->
+    <g transform="translate(40, 242)">
+      <text x="0" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#c9d1d9">LeetCode</text>
+      <rect x="150" y="0" width="730" height="10" rx="5" fill="#161b22" />
+      
+      <text x="920" y="10" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#ffffff">0</text>
+    </g>
+
+  <!-- Codeforces by Division Section -->
+  <g transform="translate(40, 305)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#8b949e">Codeforces by division</text>
+    <g transform="translate(0, 10)">
+      <rect width="920" height="10" rx="5" fill="#161b22" />
+      <g clip-path="url(#cf-bar-clip)">
+        <rect x="0" y="0" width="7" height="10" fill="#ef4444" /><rect x="7" y="0" width="475" height="10" fill="#3b82f6" /><rect x="482" y="0" width="146" height="10" fill="#10b981" /><rect x="628" y="0" width="226" height="10" fill="#f59e0b" /><rect x="854" y="0" width="66" height="10" fill="#8b5cf6" />
+      </g>
+    </g>
+    <g transform="translate(0, 34)">
+      
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#ef4444" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#8b949e">Div. 1 <tspan font-weight="700" fill="#ffffff">1</tspan></text>
+    </g>
+    <g transform="translate(140, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#3b82f6" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#8b949e">Div. 2 <tspan font-weight="700" fill="#ffffff">65</tspan></text>
+    </g>
+    <g transform="translate(280, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#10b981" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#8b949e">Div. 3 <tspan font-weight="700" fill="#ffffff">20</tspan></text>
+    </g>
+    <g transform="translate(420, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#f59e0b" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#8b949e">Div. 4 <tspan font-weight="700" fill="#ffffff">31</tspan></text>
+    </g>
+    <g transform="translate(560, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#8b5cf6" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#8b949e">Others <tspan font-weight="700" fill="#ffffff">9</tspan></text>
+    </g>
+    </g>
+  </g>
+
+  <!-- CSES by Category Section -->
+  <g transform="translate(40, 395)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#8b949e">CSES by category</text>
+    <g transform="translate(0, 10)">
+      <rect width="920" height="10" rx="5" fill="#161b22" />
+      <g clip-path="url(#cses-bar-clip)">
+        <rect x="0" y="0" width="920" height="10" fill="#58a6ff" />
+      </g>
+    </g>
+    <g transform="translate(0, 34)">
+      
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#58a6ff" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#8b949e">Introductory <tspan font-weight="700" fill="#ffffff">6</tspan></text>
+    </g>
+    <g transform="translate(150, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#3fb950" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#8b949e">Sorting & Searching <tspan font-weight="700" fill="#ffffff">0</tspan></text>
+    </g>
+    <g transform="translate(300, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#d29922" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#8b949e">Dynamic Programming <tspan font-weight="700" fill="#ffffff">0</tspan></text>
+    </g>
+    <g transform="translate(450, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#f85149" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#8b949e">Graphs & Trees <tspan font-weight="700" fill="#ffffff">0</tspan></text>
+    </g>
+    <g transform="translate(600, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#bc8cff" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#8b949e">Math & Queries <tspan font-weight="700" fill="#ffffff">0</tspan></text>
+    </g>
+    <g transform="translate(750, 0)">
+      <circle cx="5" cy="5" r="4.5" fill="#f778ba" />
+      <text x="16" y="9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#8b949e">Others <tspan font-weight="700" fill="#ffffff">0</tspan></text>
+    </g>
+    </g>
+  </g>
+</svg>
