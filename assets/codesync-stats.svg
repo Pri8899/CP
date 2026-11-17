@@ -148,9 +148,12 @@
   <g>
     <rect x="24" y="118" width="447" height="7" rx="3.5" fill="#21262d"/>
     <g clip-path="url(#bar-clip)">
-      <rect x="24" y="118" width="380.55405405405406" height="7" fill="#58a6ff"/><rect x="404.55405405405406" y="118" width="18.12162162162162" height="7" fill="#3fb950"/><rect x="422.6756756756757" y="118" width="48.32432432432433" height="7" fill="#f0883e"/>
+      <rect x="24" y="118" width="380.55405405405406" height="7" fill="#3b82f6"/><rect x="404.55405405405406" y="118" width="48.32432432432433" height="7" fill="#f59e0b"/><rect x="452.8783783783784" y="118" width="18.12162162162162" height="7" fill="#10b981"/>
       <!-- Continuous Laser Shimmer Beam across Bar -->
       <rect x="24" y="118" width="447" height="7" fill="url(#laser-sweep)"/>
+      <rect y="118" width="90" height="7" fill="#ffffff" fill-opacity="0.8">
+        <animate attributeName="x" values="-66; 471; -66" dur="2.8s" repeatCount="indefinite"/>
+      </rect>
     </g>
   </g>
 
@@ -158,7 +161,7 @@
   
     <g transform="translate(24, 137)">
       <rect width="83" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-      <circle cx="12" cy="13" r="3.5" fill="#58a6ff">
+      <circle cx="12" cy="13" r="3.5" fill="#3b82f6">
         <animate attributeName="r" values="3.0; 4.3; 3.0" dur="2s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2s" repeatCount="indefinite"/>
       </circle>
@@ -167,34 +170,34 @@
     </g>
     <g transform="translate(115, 137)">
       <rect width="83" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-      <circle cx="12" cy="13" r="3.5" fill="#3fb950">
+      <circle cx="12" cy="13" r="3.5" fill="#f59e0b">
         <animate attributeName="r" values="3.0; 4.3; 3.0" dur="2.25s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.25s" repeatCount="indefinite"/>
-      </circle>
-      <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">CSES</text>
-      <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">6</text>
-    </g>
-    <g transform="translate(206, 137)">
-      <rect width="83" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-      <circle cx="12" cy="13" r="3.5" fill="#f0883e">
-        <animate attributeName="r" values="3.0; 4.3; 3.0" dur="2.5s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.5s" repeatCount="indefinite"/>
       </circle>
       <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">LC</text>
       <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">16</text>
     </g>
-    <g transform="translate(297, 137)">
+    <g transform="translate(206, 137)">
       <rect width="83" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-      <circle cx="12" cy="13" r="3.5" fill="#d29922">
-        <animate attributeName="r" values="3.0; 4.3; 3.0" dur="2.75s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.75s" repeatCount="indefinite"/>
+      <circle cx="12" cy="13" r="3.5" fill="#e2e8f0">
+        <animate attributeName="r" values="3.0; 4.3; 3.0" dur="2.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.5s" repeatCount="indefinite"/>
       </circle>
       <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">AC</text>
       <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">0</text>
     </g>
+    <g transform="translate(297, 137)">
+      <rect width="83" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="12" cy="13" r="3.5" fill="#10b981">
+        <animate attributeName="r" values="3.0; 4.3; 3.0" dur="2.75s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.75; 1; 0.75" dur="2.75s" repeatCount="indefinite"/>
+      </circle>
+      <text x="21" y="17" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#8b949e">CSES</text>
+      <text x="74" y="17" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" fill="#e6edf3">6</text>
+    </g>
     <g transform="translate(388, 137)">
       <rect width="83" height="26" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-      <circle cx="12" cy="13" r="3.5" fill="#a371f7">
+      <circle cx="12" cy="13" r="3.5" fill="#f43f5e">
         <animate attributeName="r" values="3.0; 4.3; 3.0" dur="3s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0.75; 1; 0.75" dur="3s" repeatCount="indefinite"/>
       </circle>
