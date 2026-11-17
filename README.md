@@ -26,7 +26,7 @@
 
 [`📁 Codeforces`](./Codeforces) &nbsp;·&nbsp; [`📁 CSES`](./CSES) &nbsp;·&nbsp; [`📁 LeetCode`](./LeetCode) &nbsp;·&nbsp; [`📁 AtCoder`](./AtCoder) &nbsp;·&nbsp; [`📁 Toph`](./Toph)
 
-| # | Platform | Problem | Category / Div | Language | Date Solved | Solution |
+| # | Platform | Problem | Category / Division | Language | Date Solved | Solution |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|
 | 1 | **Codeforces** | [432A - Choosing Teams](https://codeforces.com/problemset/problem/432/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/432A%20-%20Choosing%20Teams) |
 | 2 | **Codeforces** | [405A - Gravity Flip](https://codeforces.com/problemset/problem/405/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/405A%20-%20Gravity%20Flip) |
@@ -176,138 +176,6 @@
 | 146 | **Codeforces** | [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | Div. 2 | C++ | 2026-09-30 | [Solution](Codeforces/Div.%202/71A%20-%20Way%20Too%20Long%20Words/71A%20-%20Way%20Too%20Long%20Words.cpp) |
 | 147 | **Codeforces** | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | Div. 2 | C++ | 2026-09-30 | [Solution](Codeforces/Div.%202/4A%20-%20Watermelon/4A%20-%20Watermelon.cpp) |
 | 148 | **Codeforces** | [118A - String Task](https://codeforces.com/problemset/problem/118/A) | Div. 2 | C++ | 2026-09-30 | [Solution](Codeforces/Div.%202/118A%20-%20String%20Task/118A%20-%20String%20Task.cpp) |
-| 149 | **CSES** | [1068 - Weird Algorithm](https://cses.fi/problemset/task/1068) | Introductory Problems | C++ | 2026-11-17 | [Solution](CSES/1068%20-%20Weird%20Algorithm) |
-| 150 | **CSES** | [1069 - Repetitions](https://cses.fi/problemset/task/1069) | Introductory Problems | C++ | 2026-11-17 | [Solution](CSES/1069%20-%20Repetitions) |
-| 151 | **CSES** | [1070 - Permutations](https://cses.fi/problemset/task/1070) | Introductory Problems | C++ | 2026-11-17 | [Solution](CSES/1070%20-%20Permutations) |
-| 152 | **CSES** | [1083 - Missing Number](https://cses.fi/problemset/task/1083) | Introductory Problems | C++ | 2026-11-17 | [Solution](CSES/1083%20-%20Missing%20Number) |
-| 153 | **CSES** | [1094 - Increasing Array](https://cses.fi/problemset/task/1094) | Introductory Problems | C++ | 2026-11-17 | [Solution](CSES/1094%20-%20Increasing%20Array) |
-| 154 | **CSES** | [1621 - Distinct Numbers](https://cses.fi/problemset/task/1621) | Introductory Problems | C++ | 2026-11-17 | [Solution](CSES/1621%20-%20Distinct%20Numbers) |
-| 155 | **Codeforces** | [2211A - Antimedian Deletion](https://codeforces.com/problemset/problem/2211/A) | Div. 1 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%201/2211A%20-%20Antimedian%20Deletion) |
-| 156 | **Codeforces** | [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/110A%20-%20Nearly%20Lucky%20Number) |
-| 157 | **Codeforces** | [112A - Petya and Strings](https://codeforces.com/problemset/problem/112/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/112A%20-%20Petya%20and%20Strings) |
-| 158 | **Codeforces** | [116A - Tram](https://codeforces.com/problemset/problem/116/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/116A%20-%20Tram) |
-| 159 | **Codeforces** | [118A - String Task](https://codeforces.com/problemset/problem/118/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/118A%20-%20String%20Task) |
-| 160 | **Codeforces** | [122A - Lucky Division](https://codeforces.com/problemset/problem/122/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/122A%20-%20Lucky%20Division) |
-| 161 | **Codeforces** | [131A - cAPS lOCK](https://codeforces.com/problemset/problem/131/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/131A%20-%20cAPS%20lOCK) |
-| 162 | **Codeforces** | [133A - HQ9+](https://codeforces.com/problemset/problem/133/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/133A%20-%20HQ9+) |
-| 163 | **Codeforces** | [136A - Presents](https://codeforces.com/problemset/problem/136/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/136A%20-%20Presents) |
-| 164 | **Codeforces** | [141A - Amusing Joke](https://codeforces.com/problemset/problem/141/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/141A%20-%20Amusing%20Joke) |
-| 165 | **Codeforces** | [144A - Arrival of the General](https://codeforces.com/problemset/problem/144/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/144A%20-%20Arrival%20of%20the%20General) |
-| 166 | **Codeforces** | [148A - Insomnia cure](https://codeforces.com/problemset/problem/148/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/148A%20-%20Insomnia%20cure) |
-| 167 | **Codeforces** | [151A - Soft Drinking](https://codeforces.com/problemset/problem/151/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/151A%20-%20Soft%20Drinking) |
-| 168 | **Codeforces** | [1814A - Coins](https://codeforces.com/problemset/problem/1814/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/1814A%20-%20Coins) |
-| 169 | **Codeforces** | [200B - Drinks](https://codeforces.com/problemset/problem/200/B) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/200B%20-%20Drinks) |
-| 170 | **Codeforces** | [2204A - Passing the Ball](https://codeforces.com/problemset/problem/2204/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/2204A%20-%20Passing%20the%20Ball) |
-| 171 | **Codeforces** | [2256A - Three Numbers on the Blackboard](https://codeforces.com/problemset/problem/2256/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/2256A%20-%20Three%20Numbers%20on%20the%20Blackboard) |
-| 172 | **Codeforces** | [2267A - Turn Into a Palindrome](https://codeforces.com/problemset/problem/2267/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/2267A%20-%20Turn%20Into%20a%20Palindrome) |
-| 173 | **Codeforces** | [2283A - Numbers on the Board](https://codeforces.com/problemset/problem/2283/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/2283A%20-%20Numbers%20on%20the%20Board) |
-| 174 | **Codeforces** | [2283B - Rhythmic String](https://codeforces.com/problemset/problem/2283/B) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/2283B%20-%20Rhythmic%20String) |
-| 175 | **Codeforces** | [2285A - Composite Permutation](https://codeforces.com/problemset/problem/2285/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/2285A%20-%20Composite%20Permutation) |
-| 176 | **Codeforces** | [228A - Is your horseshoe on the other hoof](https://codeforces.com/problemset/problem/228/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/228A%20-%20Is%20your%20horseshoe%20on%20the%20other%20hoof) |
-| 177 | **Codeforces** | [230A - Dragons](https://codeforces.com/problemset/problem/230/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/230A%20-%20Dragons) |
-| 178 | **Codeforces** | [231A - Team](https://codeforces.com/problemset/problem/231/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/231A%20-%20Team) |
-| 179 | **Codeforces** | [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/236A%20-%20Boy%20or%20Girl) |
-| 180 | **Codeforces** | [25A - IQ test](https://codeforces.com/problemset/problem/25/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/25A%20-%20IQ%20test) |
-| 181 | **Codeforces** | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/263A%20-%20Beautiful%20Matrix) |
-| 182 | **Codeforces** | [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/266A%20-%20Stones%20on%20the%20Table) |
-| 183 | **Codeforces** | [271A - Beautiful Year](https://codeforces.com/problemset/problem/271/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/271A%20-%20Beautiful%20Year) |
-| 184 | **Codeforces** | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/281A%20-%20Word%20Capitalization) |
-| 185 | **Codeforces** | [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/282A%20-%20Bit++) |
-| 186 | **Codeforces** | [318A - Even Odds](https://codeforces.com/problemset/problem/318/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/318A%20-%20Even%20Odds) |
-| 187 | **Codeforces** | [32B - Borze](https://codeforces.com/problemset/problem/32/B) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/32B%20-%20Borze) |
-| 188 | **Codeforces** | [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/339A%20-%20Helpful%20Maths) |
-| 189 | **Codeforces** | [344A - Magnets](https://codeforces.com/problemset/problem/344/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/344A%20-%20Magnets) |
-| 190 | **Codeforces** | [405A - Gravity Flip](https://codeforces.com/problemset/problem/405/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/405A%20-%20Gravity%20Flip) |
-| 191 | **Codeforces** | [41A - Translation](https://codeforces.com/problemset/problem/41/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/41A%20-%20Translation) |
-| 192 | **Codeforces** | [427A - Police Recruits](https://codeforces.com/problemset/problem/427/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/427A%20-%20Police%20Recruits) |
-| 193 | **Codeforces** | [432A - Choosing Teams](https://codeforces.com/problemset/problem/432/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/432A%20-%20Choosing%20Teams) |
-| 194 | **Codeforces** | [443A - Anton and Letters](https://codeforces.com/problemset/problem/443/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/443A%20-%20Anton%20and%20Letters) |
-| 195 | **Codeforces** | [467A - George and Accommodation](https://codeforces.com/problemset/problem/467/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/467A%20-%20George%20and%20Accommodation) |
-| 196 | **Codeforces** | [469A - I Wanna Be the Guy](https://codeforces.com/problemset/problem/469/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/469A%20-%20I%20Wanna%20Be%20the%20Guy) |
-| 197 | **Codeforces** | [479A - Expression](https://codeforces.com/problemset/problem/479/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/479A%20-%20Expression) |
-| 198 | **Codeforces** | [486A - Calculating Function](https://codeforces.com/problemset/problem/486/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/486A%20-%20Calculating%20Function) |
-| 199 | **Codeforces** | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/4A%20-%20Watermelon) |
-| 200 | **Codeforces** | [510A - Fox And Snake](https://codeforces.com/problemset/problem/510/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/510A%20-%20Fox%20And%20Snake) |
-| 201 | **Codeforces** | [520A - Pangram](https://codeforces.com/problemset/problem/520/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/520A%20-%20Pangram) |
-| 202 | **Codeforces** | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/546A%20-%20Soldier%20and%20Bananas) |
-| 203 | **Codeforces** | [579A - Raising Bacteria](https://codeforces.com/problemset/problem/579/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/579A%20-%20Raising%20Bacteria) |
-| 204 | **Codeforces** | [580A - Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/580A%20-%20Kefa%20and%20First%20Steps) |
-| 205 | **Codeforces** | [581A - Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/581A%20-%20Vasya%20the%20Hipster) |
-| 206 | **Codeforces** | [59A - Word](https://codeforces.com/problemset/problem/59/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/59A%20-%20Word) |
-| 207 | **Codeforces** | [617A - Elephant](https://codeforces.com/problemset/problem/617/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/617A%20-%20Elephant) |
-| 208 | **Codeforces** | [61A - Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/61A%20-%20Ultra-Fast%20Mathematician) |
-| 209 | **Codeforces** | [677A - Vanya and Fence](https://codeforces.com/problemset/problem/677/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/677A%20-%20Vanya%20and%20Fence) |
-| 210 | **Codeforces** | [69A - Young Physicist](https://codeforces.com/problemset/problem/69/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/69A%20-%20Young%20Physicist) |
-| 211 | **Codeforces** | [705A - Hulk](https://codeforces.com/problemset/problem/705/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/705A%20-%20Hulk) |
-| 212 | **Codeforces** | [706B - Interesting drink](https://codeforces.com/problemset/problem/706/B) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/706B%20-%20Interesting%20drink) |
-| 213 | **Codeforces** | [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/71A%20-%20Way%20Too%20Long%20Words) |
-| 214 | **Codeforces** | [723A - The New Year Meeting Friends](https://codeforces.com/problemset/problem/723/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/723A%20-%20The%20New%20Year%20Meeting%20Friends) |
-| 215 | **Codeforces** | [734A - Anton and Danik](https://codeforces.com/problemset/problem/734/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/734A%20-%20Anton%20and%20Danik) |
-| 216 | **Codeforces** | [785A - Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/785A%20-%20Anton%20and%20Polyhedrons) |
-| 217 | **Codeforces** | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/791A%20-%20Bear%20and%20Big%20Brother) |
-| 218 | **Codeforces** | [80A - Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/80A%20-%20Panoramix's%20Prediction) |
-| 219 | **Codeforces** | [96A - Football](https://codeforces.com/problemset/problem/96/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/96A%20-%20Football) |
-| 220 | **Codeforces** | [996A - Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | Div. 2 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%202/996A%20-%20Hit%20the%20Lottery) |
-| 221 | **Codeforces** | [1108B - Divisors of Two Integers](https://codeforces.com/problemset/problem/1108/B) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1108B%20-%20Divisors%20of%20Two%20Integers) |
-| 222 | **Codeforces** | [1154A - Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1154A%20-%20Restoring%20Three%20Numbers) |
-| 223 | **Codeforces** | [1328A - Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1328A%20-%20Divisibility%20Problem) |
-| 224 | **Codeforces** | [1335A - Candies and Two Sisters](https://codeforces.com/problemset/problem/1335/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1335A%20-%20Candies%20and%20Two%20Sisters) |
-| 225 | **Codeforces** | [1399A - Remove Smallest](https://codeforces.com/problemset/problem/1399/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1399A%20-%20Remove%20Smallest) |
-| 226 | **Codeforces** | [1409A - Yet Another Two Integers Problem](https://codeforces.com/problemset/problem/1409/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1409A%20-%20Yet%20Another%20Two%20Integers%20Problem) |
-| 227 | **Codeforces** | [1512A - Spy Detected!](https://codeforces.com/problemset/problem/1512/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1512A%20-%20Spy%20Detected!) |
-| 228 | **Codeforces** | [1702A - Round Down the Price](https://codeforces.com/problemset/problem/1702/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1702A%20-%20Round%20Down%20the%20Price) |
-| 229 | **Codeforces** | [1772A - A+B](https://codeforces.com/problemset/problem/1772/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1772A%20-%20A+B) |
-| 230 | **Codeforces** | [1899A - Game with Integers](https://codeforces.com/problemset/problem/1899/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1899A%20-%20Game%20with%20Integers) |
-| 231 | **Codeforces** | [1996A - Legs](https://codeforces.com/problemset/problem/1996/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/1996A%20-%20Legs) |
-| 232 | **Codeforces** | [2126A - Only One Digit](https://codeforces.com/problemset/problem/2126/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/2126A%20-%20Only%20One%20Digit) |
-| 233 | **Codeforces** | [2200A - Eating Game](https://codeforces.com/problemset/problem/2200/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/2200A%20-%20Eating%20Game) |
-| 234 | **Codeforces** | [2241A - Divide and Conquer](https://codeforces.com/problemset/problem/2241/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/2241A%20-%20Divide%20and%20Conquer) |
-| 235 | **Codeforces** | [2241B - Good times Good times](https://codeforces.com/problemset/problem/2241/B) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/2241B%20-%20Good%20times%20Good%20times) |
-| 236 | **Codeforces** | [2254A - Riptide](https://codeforces.com/problemset/problem/2254/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/2254A%20-%20Riptide) |
-| 237 | **Codeforces** | [2266A - Good Contest](https://codeforces.com/problemset/problem/2266/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/2266A%20-%20Good%20Contest) |
-| 238 | **Codeforces** | [2266B - Three Piles](https://codeforces.com/problemset/problem/2266/B) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/2266B%20-%20Three%20Piles) |
-| 239 | **Codeforces** | [2275A - In Search of Convenience](https://codeforces.com/problemset/problem/2275/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/2275A%20-%20In%20Search%20of%20Convenience) |
-| 240 | **Codeforces** | [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | Div. 3 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%203/977A%20-%20Wrong%20Subtraction) |
-| 241 | **Codeforces** | [1352A - Sum of Round Numbers](https://codeforces.com/problemset/problem/1352/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1352A%20-%20Sum%20of%20Round%20Numbers) |
-| 242 | **Codeforces** | [1669A - Division](https://codeforces.com/problemset/problem/1669/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1669A%20-%20Division) |
-| 243 | **Codeforces** | [1676A - Lucky](https://codeforces.com/problemset/problem/1676/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1676A%20-%20Lucky) |
-| 244 | **Codeforces** | [1692A - Marathon](https://codeforces.com/problemset/problem/1692/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1692A%20-%20Marathon) |
-| 245 | **Codeforces** | [1703A - YES or YES](https://codeforces.com/problemset/problem/1703/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1703A%20-%20YES%20or%20YES) |
-| 246 | **Codeforces** | [1703B - ICPC Balloons](https://codeforces.com/problemset/problem/1703/B) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1703B%20-%20ICPC%20Balloons) |
-| 247 | **Codeforces** | [1703C - Cypher](https://codeforces.com/problemset/problem/1703/C) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1703C%20-%20Cypher) |
-| 248 | **Codeforces** | [1742A - Sum](https://codeforces.com/problemset/problem/1742/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1742A%20-%20Sum) |
-| 249 | **Codeforces** | [1760A - Medium Number](https://codeforces.com/problemset/problem/1760/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1760A%20-%20Medium%20Number) |
-| 250 | **Codeforces** | [1791A - Codeforces Checking](https://codeforces.com/problemset/problem/1791/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1791A%20-%20Codeforces%20Checking) |
-| 251 | **Codeforces** | [1791B - Following Directions](https://codeforces.com/problemset/problem/1791/B) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1791B%20-%20Following%20Directions) |
-| 252 | **Codeforces** | [1791C - Prepend and Append](https://codeforces.com/problemset/problem/1791/C) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1791C%20-%20Prepend%20and%20Append) |
-| 253 | **Codeforces** | [1807A - Plus or Minus](https://codeforces.com/problemset/problem/1807/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1807A%20-%20Plus%20or%20Minus) |
-| 254 | **Codeforces** | [1829A - Love Story](https://codeforces.com/problemset/problem/1829/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1829A%20-%20Love%20Story) |
-| 255 | **Codeforces** | [1829B - Blank Space](https://codeforces.com/problemset/problem/1829/B) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1829B%20-%20Blank%20Space) |
-| 256 | **Codeforces** | [1873A - Short Sort](https://codeforces.com/problemset/problem/1873/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1873A%20-%20Short%20Sort) |
-| 257 | **Codeforces** | [1873B - Good Kid](https://codeforces.com/problemset/problem/1873/B) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1873B%20-%20Good%20Kid) |
-| 258 | **Codeforces** | [1915A - Odd One Out](https://codeforces.com/problemset/problem/1915/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1915A%20-%20Odd%20One%20Out) |
-| 259 | **Codeforces** | [1950A - Stair, Peak, or Neither](https://codeforces.com/problemset/problem/1950/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1950A%20-%20Stair,%20Peak,%20or%20Neither) |
-| 260 | **Codeforces** | [1950B - Upscaling](https://codeforces.com/problemset/problem/1950/B) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1950B%20-%20Upscaling) |
-| 261 | **Codeforces** | [1950C - Clock Conversion](https://codeforces.com/problemset/problem/1950/C) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1950C%20-%20Clock%20Conversion) |
-| 262 | **Codeforces** | [1985A - Creating Words](https://codeforces.com/problemset/problem/1985/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1985A%20-%20Creating%20Words) |
-| 263 | **Codeforces** | [1999A - A+B Again](https://codeforces.com/problemset/problem/1999/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/1999A%20-%20A+B%20Again) |
-| 264 | **Codeforces** | [2009A - Minimize!](https://codeforces.com/problemset/problem/2009/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/2009A%20-%20Minimize!) |
-| 265 | **Codeforces** | [2009B - osu!mania](https://codeforces.com/problemset/problem/2009/B) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/2009B%20-%20osu!mania) |
-| 266 | **Codeforces** | [2044A - Easy Problem](https://codeforces.com/problemset/problem/2044/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/2044A%20-%20Easy%20Problem) |
-| 267 | **Codeforces** | [2167A - Square](https://codeforces.com/problemset/problem/2167/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/2167A%20-%20Square) |
-| 268 | **Codeforces** | [2167B - Your Name](https://codeforces.com/problemset/problem/2167/B) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/2167B%20-%20Your%20Name) |
-| 269 | **Codeforces** | [2290A - Three Piles](https://codeforces.com/problemset/problem/2290/A) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/2290A%20-%20Three%20Piles) |
-| 270 | **Codeforces** | [2290B - Stubborn Pen](https://codeforces.com/problemset/problem/2290/B) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/2290B%20-%20Stubborn%20Pen) |
-| 271 | **Codeforces** | [2290C - Books on a Shelf](https://codeforces.com/problemset/problem/2290/C) | Div. 4 | C++ | 2026-11-17 | [Solution](Codeforces/Div.%204/2290C%20-%20Books%20on%20a%20Shelf) |
-| 272 | **Codeforces** | [1030A - In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | Others | C++ | 2026-11-17 | [Solution](Codeforces/Others/1030A%20-%20In%20Search%20of%20an%20Easy%20Problem) |
-| 273 | **Codeforces** | [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | Others | C++ | 2026-11-17 | [Solution](Codeforces/Others/158A%20-%20Next%20Round) |
-| 274 | **Codeforces** | [1866A - Ambitious Kid](https://codeforces.com/problemset/problem/1866/A) | Others | C++ | 2026-11-17 | [Solution](Codeforces/Others/1866A%20-%20Ambitious%20Kid) |
-| 275 | **Codeforces** | [1A - Theatre Square](https://codeforces.com/problemset/problem/1/A) | Others | C++ | 2026-11-17 | [Solution](Codeforces/Others/1A%20-%20Theatre%20Square) |
-| 276 | **Codeforces** | [45A - Codecraft III](https://codeforces.com/problemset/problem/45/A) | Others | C++ | 2026-11-17 | [Solution](Codeforces/Others/45A%20-%20Codecraft%20III) |
-| 277 | **Codeforces** | [50A - Domino piling](https://codeforces.com/problemset/problem/50/A) | Others | C++ | 2026-11-17 | [Solution](Codeforces/Others/50A%20-%20Domino%20piling) |
-| 278 | **Codeforces** | [52A - 123-sequence](https://codeforces.com/problemset/problem/52/A) | Others | C++ | 2026-11-17 | [Solution](Codeforces/Others/52A%20-%20123-sequence) |
-| 279 | **Codeforces** | [630A - Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) | Others | C++ | 2026-11-17 | [Solution](Codeforces/Others/630A%20-%20Again%20Twenty%20Five!) |
-| 280 | **Codeforces** | [750A - New Year and Hurry](https://codeforces.com/problemset/problem/750/A) | Others | C++ | 2026-11-17 | [Solution](Codeforces/Others/750A%20-%20New%20Year%20and%20Hurry) |
 
 <br/>
 
