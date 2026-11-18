@@ -40,12 +40,14 @@ Output `n` integer numbers separated by spaces, where the `i` -th number is the 
 ```
 4
 3 2 1 2
+
 ```
 
 **Output 1:**
 
 ```
-1 2 2 3
+1 2 2 3 
+
 ```
 
 **Example 2:**
@@ -53,12 +55,14 @@ Output `n` integer numbers separated by spaces, where the `i` -th number is the 
 ```
 3
 2 3 8
+
 ```
 
 **Output 2:**
 
 ```
-2 3 8
+2 3 8 
+
 ```
 
 ## Note
