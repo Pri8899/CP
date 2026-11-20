@@ -42,6 +42,7 @@ In the only line print the integer `S`  — the minimum number of burles which 
 ```
 5
 0 1 2 3 4
+
 ```
 
 **Output 1:**
@@ -55,6 +56,7 @@ In the only line print the integer `S`  — the minimum number of burles which 
 ```
 5
 1 1 0 1 1
+
 ```
 
 **Output 2:**
@@ -68,6 +70,7 @@ In the only line print the integer `S`  — the minimum number of burles which 
 ```
 3
 1 3 1
+
 ```
 
 **Output 3:**
@@ -81,6 +84,7 @@ In the only line print the integer `S`  — the minimum number of burles which 
 ```
 1
 12
+
 ```
 
 **Output 4:**
