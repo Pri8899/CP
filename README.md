@@ -29,9 +29,9 @@
 
 | # | Platform | Problem | Category / Division | Language | Date Solved | Solution |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | **Codeforces** | [1952A - Are You a Robot, Again?](https://codeforces.com/problemset/problem/1952/A) | Others | C++ | 2026-11-23 | [Solution](Codeforces/Others/1952A%20-%20Are%20You%20a%20Robot,%20Again) |
-| 2 | **Codeforces** | [2214A - Odd One Out](https://codeforces.com/problemset/problem/2214/A) | Others | C++ | 2026-11-22 | [Solution](Codeforces/Others/2214A%20-%20Odd%20One%20Out) |
-| 3 | **Codeforces** | [1256A - Payment Without Change](https://codeforces.com/problemset/problem/1256/A) | Div. 3 | C++ | 2026-11-21 | [Solution](Codeforces/Div.%203/1256A%20-%20Payment%20Without%20Change/1256A%20-%20Payment%20Without%20Change.cpp) |
+| 1 | **Codeforces** | [1256A - Payment Without Change](https://codeforces.com/problemset/problem/1256/A) | Div. 3 | C++ | 2026-11-21 | [Solution](Codeforces/Div.%203/1256A%20-%20Payment%20Without%20Change) |
+| 2 | **Codeforces** | [1952A - Are You a Robot, Again?](https://codeforces.com/problemset/problem/1952/A) | Others | C++ | 2026-11-23 | [Solution](Codeforces/Others/1952A%20-%20Are%20You%20a%20Robot,%20Again) |
+| 3 | **Codeforces** | [2214A - Odd One Out](https://codeforces.com/problemset/problem/2214/A) | Others | C++ | 2026-11-22 | [Solution](Codeforces/Others/2214A%20-%20Odd%20One%20Out) |
 | 4 | **Codeforces** | [1850A - To My Critics](https://codeforces.com/problemset/problem/1850/A) | Div. 4 | C++ | 2026-11-21 | [Solution](Codeforces/Div.%204/1850A%20-%20To%20My%20Critics) |
 | 5 | **Codeforces** | [758A - Holiday Of Equality](https://codeforces.com/problemset/problem/758/A) | Div. 2 | C++ | 2026-11-20 | [Solution](Codeforces/Div.%202/758A%20-%20Holiday%20Of%20Equality) |
 | 6 | **Codeforces** | [1903A - Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A) | Div. 2 | C++ | 2026-11-20 | [Solution](Codeforces/Div.%202/1903A%20-%20Halloumi%20Boxes) |
