@@ -45,6 +45,7 @@ You may print every letter in any case you want (so, for example, the strings `y
 1 2 3 6
 5 2 6 27
 3 3 5 18
+
 ```
 
 **Output:**
@@ -54,11 +55,12 @@ YES
 NO
 NO
 YES
+
 ```
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1256/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1256/problem/A)
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
