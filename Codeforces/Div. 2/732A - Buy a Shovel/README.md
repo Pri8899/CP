@@ -87,3 +87,4 @@ In the third example Polycarp should buy two shovels and pay `2·15 = 30` burles
 
 ---
 *Synced by [CodeSync Pro](https://github.com/Pri8899/CodeSync-Pro-Extension)*
+
