@@ -15,7 +15,7 @@
   <a href="https://codeforces.com/profile/Pri8899"><img src="assets/codeforces.svg" alt="Codeforces Profile" width="156" /></a>
   <a href="https://leetcode.com/Pri8899"><img src="assets/leetcode.svg" alt="LeetCode Profile" width="156" /></a>
   <a href="https://atcoder.jp"><img src="assets/atcoder.svg" alt="AtCoder Profile" width="156" /></a>
-  <a href="https://cses.fi/problemset"><img src="assets/cses.svg" alt="CSES Profile" width="156" /></a>
+  <a href="https://cses.fi/user/513345"><img src="assets/cses.svg" alt="CSES Profile" width="156" /></a>
   <a href="https://toph.co"><img src="assets/toph.svg" alt="Toph Profile" width="156" /></a>
 </p>
 
